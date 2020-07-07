@@ -1,0 +1,9 @@
+# yt
+AsapSCIENCE,https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA
+Kurzgesagt – In a Nutshell,https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+Life at Google,https://www.youtube.com/channel/UCWIzrKzN4KY6BPU8hsk880Q
+TED-Ed,https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
+# tw
+Cosa mangiamo oggi?,https://www.twitch.tv/cosamangiamooggi/
+Adrian Fartade,https://www.twitch.tv/adrianfartade/
+# here just to force the \n on last item
