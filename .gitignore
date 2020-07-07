@@ -2,7 +2,7 @@
 *.sqlite
 
 # Files with credential
-notifiers/TelegramNotifier
+notifiers/TelegramNotifier.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
