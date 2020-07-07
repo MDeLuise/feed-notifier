@@ -1,6 +1,9 @@
 # Sql files
 *.sqlite
 
+# Files with credential
+notifiers/TelegramNotifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
