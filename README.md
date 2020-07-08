@@ -9,7 +9,7 @@ A simple and expandible feed notifier.
 * [Screenshots](#screenshots)
 
 ## General info
-A side project focused on learning web scraping and how to use a simple telegram bot.
+A side project focused on learning web scraping and how to use a simple telegram bot.  
 Feed-notifier consists in a simple and extendible feed RSS, default rss sources are YouTube and Twitch.
 	
 ## Technologies
@@ -40,4 +40,4 @@ If you want to add a new feed rss manager, create a subclass of `feed_managers/A
 If you want to add a new notifier, create a subclass of `notifiers/Notifier.py` and place the file in `notifiers/` folder, then add the import in `main.py` and modify `notifier` variable.
 
 ## Screenshots
-![Screenshot](docs/images/screenshot_1.png)
+<img src="docs/images/screenshot_1.png" width="250">
